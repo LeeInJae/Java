@@ -1,5 +1,7 @@
+//2014 07 09 
+//문자열 계산기 코
 public class sense5 {
-
+	
 	static int SplitandSum(String str) {
 		
 		if( str.isEmpty() == true )
@@ -22,7 +24,7 @@ public class sense5 {
 	}
 
 	public static void main(String[] args) {
-		String calc = "1,2,3,4,5";
+		String calc = "1,2\n30,4\n5";
 		System.out.format("sum = %d", sense5.SplitandSum(calc));
 	}
 }
