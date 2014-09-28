@@ -9,6 +9,7 @@
     <persistedState key="workingSets" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workingSets/>"/>
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1411831910003"/>
     <tags>topLevel</tags>
+    <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_ZHQo4EZbEeSlCf5m0tVwZg" selectedElement="_ZHQo4UZbEeSlCf5m0tVwZg" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_ZHQo4UZbEeSlCf5m0tVwZg" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_Zf5LUUZbEeSlCf5m0tVwZg">
         <children xsi:type="advanced:Perspective" xmi:id="_Zf5LUUZbEeSlCf5m0tVwZg" elementId="org.eclipse.jdt.ui.JavaPerspective" selectedElement="_Zf5yYEZbEeSlCf5m0tVwZg" label="Java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/jperspective.gif">
@@ -270,7 +271,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ZM8aIEZbEeSlCf5m0tVwZg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_00xRwEZbEeS8g6P0AnAzmA" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_YrwYtEZbEeSlCf5m0tVwZg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_ukDFIEZcEeSOlpGNZbRTMw" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_YrwYtEZbEeSlCf5m0tVwZg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ZM9BMEZbEeSlCf5m0tVwZg" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -294,7 +295,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ZM9oQEZbEeSlCf5m0tVwZg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_004mgEZbEeS8g6P0AnAzmA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_YrtVWkZbEeSlCf5m0tVwZg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_ukLA8EZcEeSOlpGNZbRTMw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_YrtVWkZbEeSlCf5m0tVwZg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ZM9oQUZbEeSlCf5m0tVwZg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -725,7 +726,7 @@
     <bindings xmi:id="_Yth6QEZbEeSlCf5m0tVwZg" keySequence="ALT+COMMAND+X T" command="_YrzcBEZbEeSlCf5m0tVwZg">
       <tags>platform:cocoa</tags>
     </bindings>
-    <bindings xmi:id="_0hCdcUZbEeS8g6P0AnAzmA" keySequence="COMMAND+CTRL+F" command="_Yt9_IEZbEeSlCf5m0tVwZg"/>
+    <bindings xmi:id="_uK7agUZcEeSOlpGNZbRTMw" keySequence="COMMAND+CTRL+F" command="_Yt9_IEZbEeSlCf5m0tVwZg"/>
   </bindingTables>
   <bindingTables xmi:id="_Ys7dVEZbEeSlCf5m0tVwZg" elementId="org.eclipse.jdt.ui.javaEditorScope" bindingContext="_Yr7-20ZbEeSlCf5m0tVwZg">
     <bindings xmi:id="_Ys7dVUZbEeSlCf5m0tVwZg" keySequence="COMMAND+SHIFT+C" command="_YrmnokZbEeSlCf5m0tVwZg"/>
@@ -881,7 +882,7 @@
     <bindings xmi:id="_Ytcas0ZbEeSlCf5m0tVwZg" keySequence="F1" command="_YrmAlUZbEeSlCf5m0tVwZg"/>
   </bindingTables>
   <bindingTables xmi:id="_Yt_0UEZbEeSlCf5m0tVwZg" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_Yq2ZtkZbEeSlCf5m0tVwZg">
-    <bindings xmi:id="_0hDEgEZbEeS8g6P0AnAzmA" keySequence="M1+W" command="_Yt_NQUZbEeSlCf5m0tVwZg"/>
+    <bindings xmi:id="_uK8ooEZcEeSOlpGNZbRTMw" keySequence="M1+W" command="_Yt_NQUZbEeSlCf5m0tVwZg"/>
   </bindingTables>
   <bindingTables xmi:id="_ZfgJwUZbEeSlCf5m0tVwZg" bindingContext="_ZfgJwEZbEeSlCf5m0tVwZg"/>
   <bindingTables xmi:id="_ZfgJw0ZbEeSlCf5m0tVwZg" bindingContext="_ZfgJwkZbEeSlCf5m0tVwZg"/>
